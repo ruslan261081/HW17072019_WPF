@@ -1,0 +1,15 @@
+C:\Users\rosla\source\repos\HW17072019_WPF\HW17072019_WPF\obj\Debug\HW17072019_WPF.csprojAssemblyReference.cache
+C:\Users\rosla\source\repos\HW17072019_WPF\HW17072019_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\rosla\source\repos\HW17072019_WPF\HW17072019_WPF\obj\Debug\App.g.cs
+C:\Users\rosla\source\repos\HW17072019_WPF\HW17072019_WPF\obj\Debug\HW17072019_WPF_MarkupCompile.cache
+C:\Users\rosla\source\repos\HW17072019_WPF\HW17072019_WPF\obj\Debug\HW17072019_WPF_MarkupCompile.lref
+C:\Users\rosla\source\repos\HW17072019_WPF\HW17072019_WPF\bin\Debug\HW17072019_WPF.exe.config
+C:\Users\rosla\source\repos\HW17072019_WPF\HW17072019_WPF\bin\Debug\HW17072019_WPF.exe
+C:\Users\rosla\source\repos\HW17072019_WPF\HW17072019_WPF\bin\Debug\HW17072019_WPF.pdb
+C:\Users\rosla\source\repos\HW17072019_WPF\HW17072019_WPF\obj\Debug\MainWindow.baml
+C:\Users\rosla\source\repos\HW17072019_WPF\HW17072019_WPF\obj\Debug\HW17072019_WPF.g.resources
+C:\Users\rosla\source\repos\HW17072019_WPF\HW17072019_WPF\obj\Debug\HW17072019_WPF.Properties.Resources.resources
+C:\Users\rosla\source\repos\HW17072019_WPF\HW17072019_WPF\obj\Debug\HW17072019_WPF.csproj.GenerateResource.cache
+C:\Users\rosla\source\repos\HW17072019_WPF\HW17072019_WPF\obj\Debug\HW17072019_WPF.csproj.CoreCompileInputs.cache
+C:\Users\rosla\source\repos\HW17072019_WPF\HW17072019_WPF\obj\Debug\HW17072019_WPF.exe
+C:\Users\rosla\source\repos\HW17072019_WPF\HW17072019_WPF\obj\Debug\HW17072019_WPF.pdb
